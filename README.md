@@ -8,7 +8,7 @@
 
 <h1>Pneumonia Prediction Project</h1>
 
-<img src="pneumonia_xray.jpg" alt="Pneumonia X-ray Image">
+<img src="Screenshot 2023-10-27 at 4.03.41 PM" alt="Pneumonia X-ray Image">
 <p>Sample X-ray image showing pneumonia:</p>
 
 <p>
