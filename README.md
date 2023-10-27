@@ -25,7 +25,7 @@
 
 <p>For more detailed information and to access the training code, please check the following link:</p>
 
-<a href="https://github.com/your-username/your-pneumonia-project">Model Training Code</a>
+<a href="https://github.com/niteshydv01/Chextray">Model Training Code</a>
 
 <p>Feel free to reach out if you have any questions or need further assistance.</p>
 
